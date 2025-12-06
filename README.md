@@ -11,9 +11,7 @@
 | Soft Skills | Аналитическое мышление, Быстрая обучаемость, Работа в команде, Стрессоустойчивость |
 
 
-<img width="90" height="60" alt="68747470733a2f2f7374617469632e74696c646163646e2e636f6d2f74696c64333836332d333936352d343233392d623433312d3331363536343635363236362f6f726967696e616c5f315f322e706e67" src="https://github.com/user-attachments/assets/27ed3591-777f-444f-8f77-2f2f8a5aa3bb" />
 
-<img width="90" height="60" alt="Microsoft_Excel_2013-2019_logo svg" src="https://github.com/user-attachments/assets/8aacac1b-184b-4ea4-bfef-13a6ef2f94d0" />
 
 
 
