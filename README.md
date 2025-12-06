@@ -6,7 +6,7 @@
 | **Категория** | **Навыки** |
 | --- | --- |
 | Языки и СУБД | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c9fa321b-bacd-42c2-a853-5bb12b46242f" />
-; pandas &#124; matplotlib &#124; seaborn &#124; PostgreSQL &#124; Jupyter | <img width="100" height="70" alt="68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763525375397846624136434f4f643957712d6b6f46456f41464437777046676276647a36512673" src="https://github.com/user-attachments/assets/4306cb6f-d82b-4f24-945c-58fe310216e2" />
+; pandas &#124; matplotlib &#124; seaborn &#124; PostgreSQL &#124; Jupyter  <img width="100" height="70" alt="68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763525375397846624136434f4f643957712d6b6f46456f41464437777046676276647a36512673" src="https://github.com/user-attachments/assets/4306cb6f-d82b-4f24-945c-58fe310216e2" />
 | BI & Визуализация | DataLens &#124; Tableau &#124; Excel |
 | Аналитика | А/В тесты, Анализ пользовательского поведения, Сбор и анализ информации, Математическая статистика |
 | Soft Skills | Аналитическое мышление, Быстрая обучаемость, Работа в команде, Стрессоустойчивость |
